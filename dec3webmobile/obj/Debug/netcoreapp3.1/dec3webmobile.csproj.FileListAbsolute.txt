@@ -121,3 +121,14 @@ C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\ru
 C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\dec3webmobile.deps.json
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\dec3webmobile.runtimeconfig.json
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\dec3webmobile.runtimeconfig.dev.json
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\dec3webmobile.dll
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\dec3webmobile.pdb
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\obj\Debug\netcoreapp3.1\dec3webmobile.csproj.CoreCompileInputs.cache
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\obj\Debug\netcoreapp3.1\dec3webmobile.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\obj\Debug\netcoreapp3.1\dec3webmobile.dll
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\obj\Debug\netcoreapp3.1\dec3webmobile.pdb
+C:\Users\rog\source\repos\dec3webmobile\dec3webmobile\obj\Debug\netcoreapp3.1\dec3webmobile.genruntimeconfig.cache
